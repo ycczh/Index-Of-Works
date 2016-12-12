@@ -1,2 +1,2 @@
 # show
-this is all odf my works
+My name is ***, 27 years old this year. July 1997 I ** Normal School artists Fine Arts graduate program at their own expense. As from 97 countries no longer their own expense since health package distribution, so that I and "the most brilliant career under the sun" missed. Fortunately, at River West Malaysia factory complete lack of small teacher, was introduced, small as I completed one year of the temporary supply teachers.
