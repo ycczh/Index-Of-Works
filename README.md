@@ -1,2 +1,4 @@
-# Index of Works
-My name is yuchangchun, 27 years old this year. July 1997 I am from Normal School artists Fine Arts graduate program at their own expense. As from 97 countries no longer their own expense since health package distribution, so that I and "the most brilliant career under the sun" missed. Fortunately, at River West Malaysia factory complete lack of small teacher, was introduced, small as I completed one year of the temporary supply teachers.
+# 仿卖座网
+看了vue2.0系列那么久，一直没能找到一个很好的实例来整合一下，正好看到一位前辈用vue2.0重构的卖座网，感觉还不错，就拷贝下来练练手。在原来的基础上加了影院列表和影院详情两部分。后续看能不能加一些后台上去
+
+主要用到vue2.0 vuex vue-router vue-resource moment.js
